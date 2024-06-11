@@ -1,6 +1,6 @@
 # annealing_sample_scripts
 
-Sample scripts for running simulations for paper "Shear annealing of a self-interacting sheet" (submitted June 2024). All simulations were run using HOOMD-blue 2.4 using a custom package from Silmore, K. S., Strano, M. S., & Swan, J. W. (2021). *Soft Matter* which was adapted from Fiore, A. M., *et al.* (2017). *The Journal of Chemical Physics*.
+Sample scripts for running simulations for paper "Shear annealing of a self-interacting sheet" (submitted June 2024). All simulations were run using HOOMD-blue 2.4 and Python 3.6.9 using a custom package from Silmore, K. S., Strano, M. S., & Swan, J. W. (2021). *Soft Matter* which was adapted from Fiore, A. M., *et al.* (2017). *The Journal of Chemical Physics*.
 
 Scripts:
 
